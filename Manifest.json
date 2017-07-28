@@ -10,6 +10,7 @@
         "Id": 1451803
     },
     "Dependencies": {
-        "Luna": {"Type": "Git", "Repository": "bradsharp/luna"}
+        "Create": {"Type": "Git", "Repository": "robloxpackageservice/Create", "Version":"master"},
+        "Signal": {"Type": "Git", "Repository": "robloxpackageservice/Signal", "Version":"master"}
     }
 }
