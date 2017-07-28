@@ -1,0 +1,15 @@
+{
+    "Description": "Replacement for the RbxUtility library",
+    "Version": "1.0.0",
+    "Repository": {
+        "Type": "Git",
+        "Source": "https://github.com/RobloxPackageService/Utility"
+    },
+    "Author": {
+        "Name": "woot3",
+        "Id": 1451803
+    },
+    "Dependencies": {
+        "Luna": {"Type": "Git", "Repository": "bradsharp/luna"}
+    }
+}
