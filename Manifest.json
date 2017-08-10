@@ -10,7 +10,6 @@
         "Id": 1451803
     },
     "Dependencies": {
-        "Create": {"Type": "Git", "Repository": "robloxpackageservice/Create", "Version":"master"},
         "Signal": {"Type": "Git", "Repository": "robloxpackageservice/Signal", "Version":"master"}
     }
 }
