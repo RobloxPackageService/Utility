@@ -10,6 +10,6 @@
         "Id": 1451803
     },
     "Dependencies": {
-        "Signal": {"Type": "Git", "Repository": "robloxpackageservice/Signal", "Version":"master"}
+        "Signal": {"Type": "Git", "Source": "https://www.github.com/robloxpackageservice/Signal", "Version":"master"}
     }
 }
